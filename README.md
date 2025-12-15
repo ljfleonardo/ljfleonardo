@@ -39,7 +39,8 @@
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ljfleonardo&show_icons=true&theme=dracula&hide_border=true" height="150" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ljfleonardo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ljfleonardo&layout=compact&theme=dracula&hide_border=true" height="150" />
+
 </div>
 
 <div align="center">
@@ -53,7 +54,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ljfleonardo/ljfleonardo/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ljfleonardo/ljfleonardo/output/pacman-contribution-graph.svg">
 </picture>
-
 
 ###
 
